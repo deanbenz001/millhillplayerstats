@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Football Player Stats</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Mill Hill 8s Player Stats</h1>
+
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Search player by name...">
+  </div>
+
+  <div class="sort-buttons">
+    <button id="sortWins">Most Wins</button>
+    <button id="sortLosses">Most Losses</button>
+    <button id="sortGoals">Top Goalscorers</button>
+  </div>
+
+  <div id="player-list" class="player-list"></div>
+
+  <!-- Player modal -->
+  <div id="playerModal" class="modal">
+    <div class="modal-content">
+      <span id="closeModal" class="close">&times;</span>
+      <img id="modalPhoto" src="" alt="" />
+      <h3 id="modalName"></h3>
+      <div class="stats">
+        <p id="modalGoals"></p>
+        <p id="modalStreak"></p>
+        <p id="modalWins"></p>
+        <p id="modalLosses"></p>
+        <p id="modalCleanSheets"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
