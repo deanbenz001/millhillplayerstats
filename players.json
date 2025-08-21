@@ -1,8 +1,9 @@
 [
   {
     "name": "Jordan",
-    "goals": 2,
+    "goals": 0,
     "streak": "W",
+    "motm": 0,
     "cleanSheets": 0,
     "photo": "images/jordan.png"
   },
@@ -10,6 +11,7 @@
     "name": "Din",
     "goals": 0,
     "streak": "W",
+    "motm": 0,
     "cleanSheets": 0,
     "photo": "images/dinesh.png"
   },
@@ -17,6 +19,7 @@
     "name": "Baiju",
     "goals": 0,
     "streak": "W",
+    "motm": 0,
     "cleanSheets": 0,
     "photo": "images/david.jpg"
   },
@@ -24,165 +27,167 @@
     "name": "Shach",
     "goals": 0,
     "streak": "W",
+    "motm": 0,    
     "cleanSheets": 0,
     "photo": "images/shach.png"
   },
-    {
+  {
     "name": "Alex Harris",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/alexharris.png"
   },
-
   {
     "name": "Harry",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/harry.png"
   },
-
   {
     "name": "Gabi",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/gabi.jpg"
   },
-
   {
     "name": "Alex K",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/alexk.png"
   },
-
   {
     "name": "Trish",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/trish.png"
   },
-
   {
     "name": "Hiren",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/hiren.png"
   },
-
   {
     "name": "Jack",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/jack.png"
   },
-
   {
     "name": "Sandeep",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/david.jpg"
   },
-
   {
     "name": "Kumi",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/david.png"
   },
-
   {
     "name": "Josh",
     "goals": 5,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/david.png"
   },
-
   {
     "name": "Mehul",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/mehul.png"
   },
-
   {
     "name": "Chris",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/david.png"
   },
-
   {
     "name": "Rob Davis",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/robd.png"
   },
-
   {
     "name": "Ravi",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/ravi.png"
   },
-
   {
     "name": "Daniel R",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/danielr.png"
   },
-
   {
     "name": "Elliot",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/ellioth.png"
   },
-
   {
     "name": "Ross",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/ross.png"
   },
-
   {
     "name": "James",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/james.png"
   },
-
   {
     "name": "Stuart",
     "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/david.png"
   },
-
   {
     "name": "Jonathan D",
-    "goals": 10,
+    "goals": 0,
     "streak": "W",
+    "motm": 0, 
     "cleanSheets": 0,
     "photo": "images/david.png"
   }
